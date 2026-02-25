@@ -61,7 +61,8 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/soporteantimalware/count.svg" alt="Visitantes">
+  <img src="[https://profile-counter.glitch.me/soporteantimalware/count.svg](https://profile-counter.glitch.me/soporteantimalware-applockerpro/count.svg)" alt="Visitantes">
   <br>
   <b>Visitantes totales</b>
 </p>
+
