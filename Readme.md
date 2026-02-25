@@ -3,6 +3,8 @@
 > **Bloqueo y Protección Avanzada para Windows 10 & 11**
 > 
 > Es una potente herramienta de seguridad diseñada para proteger tus aplicaciones mediante bloqueo automático y control por contraseña. Ideal para padres, empresas, estudiantes o cualquier persona que quiera mantener sus programas seguros y evitar accesos no autorizados.
+>
+> Con una interfaz moderna y fácil de usar, AppLocker Pro funciona en segundo plano monitoreando los procesos del sistema para bloquear inmediatamente las aplicaciones protegidas.
 
 ---
 
@@ -63,3 +65,4 @@
   <b>AppLocker Pro © 2026</b><br>
   <i>Protección con un clic y control total.</i>
 </p>
+
