@@ -61,10 +61,11 @@
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoporteantimalware%2Fapplockerpro&count_bg=%23764BA2&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=VISITAS&edge_flat=false" alt="Hits">
+  <img src="https://img.shields.io/badge/dynamic/json?combined_as_badge=true&config=%7B%7D&color=764ba2&label=VISITAS%20TOTALES&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsoporteantimalware-applocker%2Fvisits&style=for-the-badge" alt="Visitas">
   <br>
   <b>Registro de actividad del proyecto</b>
 </p>
+
 
 
 
