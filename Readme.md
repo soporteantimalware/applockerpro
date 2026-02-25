@@ -57,14 +57,3 @@
   <b>AppLocker Pro © 2026</b><br>
   <i>Protección con un clic y control total.</i>
 </p>
-
-<p align="center">
-  <a href="https://github.com/soporteantimalware/applockerpro/pulse">
-    <img src="https://img.shields.io/badge/ESTADÍSTICAS-VER_TRÁFICO-764ba2?style=for-the-badge&logo=github" alt="Estadísticas">
-  </a>
-</p>
-
-
-
-
-
