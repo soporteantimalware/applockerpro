@@ -49,8 +49,8 @@
 
 * **Bloqueo automático real-time:** Monitoreo discreto de procesos.
 * **Protección por clave maestra:** Seguridad robusta para tus accesos.
-* **Inicio con Windows:** Protección desde el primer segundo.
 * **Monitoreo discreto:** Vigilancia en segundo plano sin interrupciones ni ventanas emergentes.
+* **Inicio con Windows:** Protección desde el primer segundo.
 * **Pausar/Reanudar protección:** Control total para desactivar el bloqueo temporalmente cuando lo necesites.
 * **Gestión flexible:** Agrega apps por ruta o directamente por el ejecutable (.exe).
 * **Clave de recuperación:** Sistema de emergencia para restaurar el acceso en caso de olvidar la contraseña maestra.
@@ -68,5 +68,6 @@
   <b>AppLocker Pro © 2026</b><br>
   <i>Protección con un clic y control total.</i>
 </p>
+
 
 
