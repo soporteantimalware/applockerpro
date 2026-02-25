@@ -37,11 +37,11 @@
 
 ### 🚀 ¿Por qué elegir AppLocker Pro?
 
-| :white_check_mark: ¿Para qué sirve? | :gear: Especificaciones |
+| 💡 Beneficios Clave | :gear: Especificaciones |
 | :--- | :--- |
-| • Bloqueo de apps en tiempo real | • **SO:** Windows 10 y 11 |
-| • Contraseña individual/maestra | • **Consumo:** Muy Ligero (Bajo RAM) |
-| • Evita uso de software sensible | • **Modo:** Offline compatible |
+| • **Acceso Restringido:** Evita que abran tus navegadores o visualizadores de fotos. | • **SO:** Windows 10 y 11 |
+| • **Control Parental:** Restringe el acceso a juegos o aplicaciones de ocio. | • **Consumo:** Muy Ligero (Bajo RAM) |
+| • **Seguridad Extra:** Bloquea herramientas de sistema o software de trabajo sensible. | • **Modo:** Offline compatible |
 
 ---
 
@@ -50,7 +50,10 @@
 * **Bloqueo automático real-time:** Monitoreo discreto de procesos.
 * **Protección por clave maestra:** Seguridad robusta para tus accesos.
 * **Inicio con Windows:** Protección desde el primer segundo.
+* **Monitoreo discreto:** Vigilancia en segundo plano sin interrupciones ni ventanas emergentes.
+* **Pausar/Reanudar protección:** Control total para desactivar el bloqueo temporalmente cuando lo necesites.
 * **Gestión flexible:** Agrega apps por ruta o directamente por el ejecutable (.exe).
+* **Clave de recuperación:** Sistema de emergencia para restaurar el acceso en caso de olvidar la contraseña maestra.
 
 ---
 
@@ -65,4 +68,5 @@
   <b>AppLocker Pro © 2026</b><br>
   <i>Protección con un clic y control total.</i>
 </p>
+
 
