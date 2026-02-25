@@ -58,13 +58,12 @@
   <i>Protección con un clic y control total.</i>
 </p>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?combined_as_badge=true&config=%7B%7D&color=764ba2&label=VISITAS%20TOTALES&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsoporteantimalware-applocker%2Fvisits&style=for-the-badge" alt="Visitas">
-  <br>
-  <b>Registro de actividad del proyecto</b>
+  <a href="https://github.com/soporteantimalware/applockerpro/pulse">
+    <img src="https://img.shields.io/badge/ESTADÍSTICAS-VER_TRÁFICO-764ba2?style=for-the-badge&logo=github" alt="Estadísticas">
+  </a>
 </p>
+
 
 
 
