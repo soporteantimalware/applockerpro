@@ -61,9 +61,10 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/soporteantimalware/count.svg" alt="Visitantes">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoporteantimalware%2Fapplockerpro&count_bg=%23764BA2&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=VISITAS&edge_flat=false" alt="Hits">
   <br>
-  <b>Visitantes totales</b>
+  <b>Registro de actividad del proyecto</b>
 </p>
+
 
 
