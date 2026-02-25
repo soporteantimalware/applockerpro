@@ -20,6 +20,11 @@
 | **Duración** | **15 DÍAS** | **1 AÑO** | **PARA SIEMPRE** |
 | **Acción** | [![Probar](https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/soporteantimalware/applockerpro/releases/download/v1.0.0/AppLocker_Pro.exe) | [![PayPal](https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SB88094P7061501BNGASDPQ) | [![PayPal](https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/UUV7278W9YABN) |
 
+<p align="center">
+  <a href="https://github.com/soporteantimalware/applockerpro/releases">
+    <img src="https://img.shields.io/github/downloads/soporteantimalware/applockerpro/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
+  </a>
+</p>
 ---
 
 ### 🚀 ¿Por qué elegir AppLocker Pro?
@@ -51,4 +56,12 @@
 <p align="center">
   <b>AppLocker Pro © 2026</b><br>
   <i>Protección con un clic y control total.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/soporteantimalware/count.svg" alt="Visitantes">
+  <br>
+  <b>Visitantes totales</b>
 </p>
