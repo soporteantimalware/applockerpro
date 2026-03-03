@@ -25,7 +25,7 @@
 | Iniciar con Windows | ✅ | ✅ | ✅ |
 | Silenciar notificaciones | ✅ | ✅ | ✅ |
 | **Duración** | **15 DÍAS** | **1 AÑO** | **PARA SIEMPRE** |
-| **Acción** | [![Probar](https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/soporteantimalware/applockerpro/releases/download/v1.0.0/AppLocker_Pro.exe) | [![PayPal](https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SB88094P7061501BNGASDPQ) | [![PayPal](https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/UUV7278W9YABN) |
+| **Acción** | [![Probar](https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/soporteantimalware/applockerpro/releases/download/v1.0.0/AppLockerPro_1.0.0.exe) | [![PayPal](https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SB88094P7061501BNGASDPQ) | [![PayPal](https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/UUV7278W9YABN) |
 
 <p align="center">
   <a href="https://github.com/soporteantimalware/applockerpro/releases">
@@ -68,6 +68,7 @@
   <b>AppLocker Pro © 2026</b><br>
   <i>Protección con un clic y control total.</i>
 </p>
+
 
 
 
