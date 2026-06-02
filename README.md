@@ -17,7 +17,7 @@
 
 ---
 
-# ✨ Novedades en la versión 1.5.0
+# ✨ Novedades en la versión 1.1.0
 
 ✅ Nuevo modo de seguridad:
 
