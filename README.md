@@ -140,7 +140,7 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 
 <div align="center">
 
-<img src="img/1.gif" alt="Cómo ejecutar AppLocker Pro Suite" width="250">
+<img src="img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro Suite" width="250">
 
 </div>
 
