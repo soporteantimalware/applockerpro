@@ -110,11 +110,42 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 # ⚠️ Nota de Seguridad
 
 > [!CAUTION]
-> AppLocker Pro monitorea procesos del sistema para poder bloquear aplicaciones protegidas en tiempo real.
+> AppLocker Pro interactúa con procesos del sistema y configuraciones de red para proporcionar sus funciones de protección y control.
 >
-> Debido a este comportamiento técnico, algunos antivirus pueden mostrar alertas preventivas o falsos positivos.
+> Debido a este comportamiento técnico, algunos antivirus o soluciones de seguridad pueden mostrar alertas preventivas o falsos positivos.
+
+> [!NOTE]
+> AppLocker Pro es un proyecto independiente en constante evolución.
 >
-> El software es completamente legítimo, seguro y libre de malware.
+> Actualmente, el instalador aún no cuenta con una firma digital de código (Code Signing Certificate), por lo que Windows SmartScreen puede mostrar advertencias preventivas al ejecutar el archivo descargado.
+>
+> Estas advertencias forman parte de las medidas de seguridad estándar de Windows y no indican la presencia de software malicioso.
+>
+> La incorporación de firma digital se encuentra prevista para futuras versiones del proyecto.
+
+---
+
+# 📥 Instalación y Advertencia de Windows SmartScreen
+
+> [!IMPORTANT]
+> Al descargar AppLocker Pro, Windows puede mostrar la advertencia **"Windows protegió tu PC"**.
+>
+> Este comportamiento es normal cuando una aplicación descargada desde Internet aún no dispone de una firma digital reconocida por Microsoft.
+
+### Pasos para continuar
+
+1. Haz clic en **Más información**.
+2. Haz clic en **Ejecutar de todas formas**.
+3. Continúa con la instalación normalmente.
+
+<div align="center">
+
+<img src="img/1.gif" alt="Cómo ejecutar AppLocker Pro Suite" width="250">
+
+</div>
+
+> [!TIP]
+> Este procedimiento generalmente solo es necesario la primera vez que se ejecuta el instalador.
 
 ---
 
